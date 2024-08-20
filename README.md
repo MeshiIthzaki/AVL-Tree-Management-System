@@ -4,9 +4,9 @@
 
 This code implements a specialized data structure for managing products based on their time and quality attributes. The data structure maintains two AVL trees:
 
-- **Time Tree:** An AVL tree that organizes products by their time attribute.
+**🕒 Time Tree:** An AVL tree that organizes products by their time attribute.
 
-- **Quality Tree:** An AVL tree that organizes products by their quality attribute.
+**🔧 Quality Tree:** An AVL tree that organizes products by their quality attribute.
 
 The data structure supports operations such as adding and removing products, querying products by rank, and checking for the existence of special qualities.
 
